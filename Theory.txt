@@ -1,0 +1,31 @@
+1)What is Emmet?
+A way of generating a code, it is a shortcut through which we can create a full fledge code like !, we can create a html boiler plate.
+
+2) Difference between a Library and Framework?
+Library is a collection of predefine code use for performing various operations
+the difference btw them is basically inversion of control. In library you have a control over when and where to use functionality, where as Framework has certain sets and rules , and accordingly framework control how and when to use. 
+
+3) What is CDN? Why do we use it?
+CDN is a content delivery network, it is a distributed server system. we use it to improve the performance and recieve a respond from server faster.
+
+4) Why is React known as React?
+React is known as React because of its ability to react to changes  of State or behavior efficiently and quickly
+
+5) What is crossorigin in script tag?
+crossorigin in a simpe term can explain as requesting for resources or data from one domain to another domain
+
+6)What is diference between React and ReactDOM
+React at its core, contains all the core functionality , code of react, powerful algorithm use for creation react Components, ekements for build UI, whereas ReactDOM act as bridge between reacts virtual dom and actual dom
+
+7) What is difference between react.development.js and react.production.js files via CDN?
+react.development.js  is use for development purpose which include additional features like helping functions, debugging , error messages etc , whereas react.production.js is used for production environment which optimises the files , minified it and the app faster and does not contain development features
+
+8)What is async and defer?
+async script is downloaded in parallel to the HTML parsing.
+Once downloaded, it is executed immediately, which pauses the HTML parsing.
+Scripts with async are not executed in order if multiple async scripts are present.
+
+defer - 
+The script is downloaded in parallel to the HTML parsing.
+It is executed only after the entire HTML document is parsed.
+Multiple defer scripts execute in order.
