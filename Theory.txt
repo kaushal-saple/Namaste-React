@@ -29,3 +29,17 @@ defer -
 The script is downloaded in parallel to the HTML parsing.
 It is executed only after the entire HTML document is parsed.
 Multiple defer scripts execute in order.
+
+
+Episode 3
+1)What is JSX?
+JSX stants for javascript extension. It is a HTML like syntax use for creating react element n component, which makes developers life easy.
+
+2)Superpowers of JSX
+Easy to write
+Easy to read and understand
+Not so complex as compare to react.CreateElement
+Sanitizes our code before rendering
+Prevent from attacks- cross site scripting
+shows more useful error and warning
+
